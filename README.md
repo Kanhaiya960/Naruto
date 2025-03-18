@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://graph.org/file/14b45edf3ff4cc8d53962.jpg" alt="Stark-Filter-Bot Logo">
+  <img src="[https://graph.org/file/14b45edf3ff4cc8d53962.jpg](https://i.ibb.co/fdLM4xMB/photo-2025-03-18-01-45-14-7482959788532301840.jpg)" alt="Stark-Filter-Bot Logo">
 </p>
+
 <h1 align="center">
   <b>N2 FILTER BOT</b>
 </h1>
